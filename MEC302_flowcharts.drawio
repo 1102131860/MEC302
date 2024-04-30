@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T09:28:28.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CpC3FBwSd_RAi3bUQIxY" version="24.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T09:29:47.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zOvUu6vUXP_y-J6F_1Zp" version="24.3.0" type="github" pages="2">
   <diagram name="task1" id="zDjTS899pgeco_TXHuRO">
     <mxGraphModel dx="2100" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -352,25 +352,25 @@
         <mxCell id="fOxyD7nyp7sPQDTGqQbi-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Digital 2 shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="271" width="140" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fOxyD7nyp7sPQDTGqQbi-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LED3 turns on&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fOxyD7nyp7sPQDTGqQbi-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Digital 3 shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="400" width="140" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fOxyD7nyp7sPQDTGqQbi-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LED4 turns on&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fOxyD7nyp7sPQDTGqQbi-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Digital 4 shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="140" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fOxyD7nyp7sPQDTGqQbi-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LED5 turns on&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fOxyD7nyp7sPQDTGqQbi-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Digital 5 shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="667" width="140" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fOxyD7nyp7sPQDTGqQbi-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LED6 turns on&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fOxyD7nyp7sPQDTGqQbi-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Digital 6 shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="800" width="140" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fOxyD7nyp7sPQDTGqQbi-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LED7 turns on&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fOxyD7nyp7sPQDTGqQbi-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Digital 7 shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="930" width="140" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fOxyD7nyp7sPQDTGqQbi-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;all LEDS turns on&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fOxyD7nyp7sPQDTGqQbi-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Digital 8 shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="1062" width="140" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fOxyD7nyp7sPQDTGqQbi-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;all LEDS turns off&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fOxyD7nyp7sPQDTGqQbi-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Decimal point shows&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="1189" width="140" height="74" as="geometry" />
         </mxCell>
         <mxCell id="fOxyD7nyp7sPQDTGqQbi-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
